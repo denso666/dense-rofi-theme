@@ -5,7 +5,7 @@ A elegant rofi theme
 - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 - [Papirus icon theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
 
-## Instalation
+## Installation
 1. Clone or download file
 2. Move file to your rofi config folder `$HOME/.config/rofi`
 3. Edit your `config.rasi` file and set the next options ( show-icons and icon-theme are optional if you want icons in your rofi menu )
