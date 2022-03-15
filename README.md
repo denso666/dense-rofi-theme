@@ -1,5 +1,5 @@
 # dense-rofi-theme
-A elegant rofi theme
+An elegant rofi theme
 
 ## Requirements
 - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
